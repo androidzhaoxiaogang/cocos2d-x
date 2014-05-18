@@ -1,0 +1,9 @@
+.DS_Store
+bin
+gen
+libs
+local.properties
+obj
+build
+assets
+runtime
